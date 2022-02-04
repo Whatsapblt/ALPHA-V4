@@ -32,7 +32,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTBOT/Alpha-Qr?v=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/Whatsapblt/ALPHA-V4
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]https://github.com/Whatsapblt/ALPHA-V4/blob/main/README.md
 </div>
 
 ----
